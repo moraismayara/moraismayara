@@ -1,3 +1,7 @@
+[![Linkedin Badge](https://img.shields.io/badge/-mayaramorais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayara-morais-59250665/)](https://www.linkedin.com/in/mayara-morais-59250665/)
+[![HackerRank Badge](https://img.shields.io/badge/-mayaramorais-green?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/mayaramorais/)](https://www.hackerrank.com/mayaramorais/)
+
+
 ### Hi, I'm Mayara 👋
 
 <p><em>

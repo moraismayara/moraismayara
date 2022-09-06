@@ -6,6 +6,6 @@
 
 <p><em>
        :computer:&nbsp;&nbsp;&nbsp;I’m currently working as a Data Engineer at <a href="https://picpay.com/site"> PicPay </a> <br/>
-       :woman_student:&nbsp;&nbsp;&nbsp;I'm working towards a master’s degree in Electronic and Computer Engineering at <a href="http://www.ita.br/"> ITA </a> <br/>
+       :woman_student:&nbsp;&nbsp;&nbsp;I have a Master of Science degree in Electronic and Computer Engineering from the <a href="http://www.ita.br/"> Brazilian Aeronautics Institute of Technology </a> <br/>
        :heart:&nbsp;&nbsp;&nbsp;I'm passionate about <a href="https://www.last.fm/user/mayaravaleria"> music </a> and <a href="https://www.setlist.fm/user/mayaramorais"> gigs </a>
 <em/><p/>
